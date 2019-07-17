@@ -13,12 +13,12 @@ const OPTIONS = {
     },
 
     identity: {
-        username: 'malding_bot',
-        password: 'oauth:7g4f9nz7wfb2c5d0ig14qgi4sjhnwe'
+        username: '<Bot Username>',
+        password: '<Bot OAuth>'
     },
 
     channels: [
-        'komor_'
+        '<Channels that bot connetcs to>'
     ]
 };
 
