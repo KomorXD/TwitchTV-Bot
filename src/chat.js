@@ -17,8 +17,8 @@ exports.HandleMessage = (channel, user, msg, client) => {
             client.say(channel, 'pong');
             break;
         
-        case 'legia to':
-            client.say(channel, 'huje');
+        case '********':
+            client.say(channel, '****');
             break;
         
         case '!uptime':
